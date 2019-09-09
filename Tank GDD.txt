@@ -1,0 +1,31 @@
+Tank Game (practic/tutorial concept)
+
+Open-world tank combat game with AI controlled enemies.
+Remove their health before they remove yours.
+
+Rules:
+-Can move anywhere on the terrain, which is surrounded by mountains/a barrier
+-Players/AI start with finite health
+-Health is lost when hit
+-Die when out of health
+-First team eleminated loses
+
+
+Req:
+
+SFX: 
+Firing, Explosion, barrel adjustment (Horizontal & Verticle), 
+Engine sound, Movment sound (personal addition), Background Music,
+Menu Button Hover Whoosh & Click Boop
+
+Static Mesh:
+Simple tank, Mortar, Terrain, Projectile?, Obstacle (destructible)
+
+VFX:
+Smoke Trail, Explosion
+
+UI:
+Basic Menu, Health, Aiming Reticle
+
+Controls:
+Forward, Reverse, Left, Right, adjust aim (up/down, left/right)
